@@ -1,0 +1,14 @@
+# Eclipse #
+###########
+.classpath
+.project
+.settings
+*/bin
+
+# Maven #
+#########
+target
+release.properties
+*.releaseBackup
+*.versionsBackup
+/bin/
